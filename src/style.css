@@ -4,6 +4,11 @@ body {
 
 h1 {
   text-align: center;
+  margin: 20px;
+}
+
+h3 {
+  margin-bottom: 30px;
 }
 
 .links {
@@ -27,5 +32,19 @@ h1 {
   max-width: 75%;
   border-radius: 15px;
   border: 2px solid black;
+  box-shadow: 2px 2px 5px rgb(85, 85, 85);
+}
+
+.contact {
+  text-align: center;
+}
+
+.email-link {
+  padding: 10px;
+  background-color: rgb(139, 125, 80);
+  margin: 30px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
   box-shadow: 2px 2px 5px rgb(85, 85, 85);
 }
